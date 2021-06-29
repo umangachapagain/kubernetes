@@ -10,6 +10,6 @@ require (
 	gotest.tools v2.2.0+incompatible
 	gotest.tools/gotestsum v0.3.5
 	honnef.co/go/tools v0.2.0
-	k8s.io/klog/hack/tools v0.0.0-20210303110520-14dec3377f55
+	k8s.io/klog/hack/tools v0.0.0-20210628123925-dfd141166316
 	sigs.k8s.io/zeitgeist v0.2.0
 )
